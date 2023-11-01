@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: textures
+  m_EditorClassIdentifier: 
+  m_GroupName: textures
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 869699a0bfd537a4f9f26f08ea0568e8
+  m_SerializeEntries:
+  - m_GUID: 9b87916427a91944eb183ea3f9c3a3c3
+    m_Address: OBJ_WallInteriorDeco_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a301634d3155d1b43af20df674eee98e
+    m_Address: OBJ_Books_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4804ef7f49424cd46ba56073530b6bac
+    m_Address: OBJ_WallInteriorDeco_F_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 783cc331fc3872d488aa9a1e59028921
+    m_Address: OBJ_WallInteriorDeco_D_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 989c2a646fb3a3342a8ed23766ed042b
+    m_Address: OBJ_WallInteriorDeco_C_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4978c6bd71f4ae42a4482c762c6a7df
+    m_Address: OBJ_WallInteriorDeco_B_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b08c0595e8ab9ca4d9a89ba80c8092a0
+    m_Address: OBJ_ConvenienceStoreNotes_Dif_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ba56262ee9339a41ad5311b2ddbf177
+    m_Address: OBJ_InteriorCampOfficeDeco_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f26036a654d11f4abf1f8046cc360fd
+    m_Address: OBJ_WallInteriorDeco_B_Jod1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c479a42e40665f8428acb4642db449a3
+    m_Address: OBJ_OldPictureFrames_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c4c564e07803fa48a30e9b7eee4f2a5
+    m_Address: OBJ_OldPictureFrames_B_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 325feb87b66929c4c9f47d6fd05a32c9
+    m_Address: OBJ_PictureFrame_GM_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfebf57b3f854444ea45058b06b7fd90
+    m_Address: OBJ_BulletinBoard_A_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0b35ae0417df574e86dae60417155b0
+    m_Address: OBJ_WallInteriorDeco_G_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 832874e8ae1d22847983d413ecc03150
+    m_Address: OBJ_Airfield_Signs_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5e7c95a216a7c64a9a8391ce0e8f75e
+    m_Address: GEAR_FoodCandyBars_Dif_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c25610db8d597949a3ae14203832cbd
+    m_Address: GEAR_FoodEnergyBar_Dif_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b9e61bd2ae26b740bf50fc22155cbac
+    m_Address: GEAR_GranolaBar_Dif_Jods
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f725e457a04da7e49bbb0908a8b2dc6c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a61a01577c36541408f0480df59d5857, type: 2}
+    - {fileID: 11400000, guid: 9aaa5cd7715970c418baa76b53556ee1, type: 2}

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Halloween Pack-Cemetery Snap/Scenes/Cemetery Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

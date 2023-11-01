@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TLD-Halloween
+  m_EditorClassIdentifier: 
+  m_GroupName: TLD-Halloween
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3f28711141dd04c47afed463442e4963
+  m_SerializeEntries:
+  - m_GUID: 9296046bc6b732e4e9e83c4e12025a7a
+    m_Address: Candle_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d12a1fa43a73ed4aa391535fdfbfa1a
+    m_Address: Candle_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2581d812137edfd45b26b0534ec71289
+    m_Address: Candle_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7be5fba9a68ee7849bd32d89d3ed0ab0
+    m_Address: Candle_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4bbcd751e17af142aaf16985003e9ca
+    m_Address: Candle_E
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff3859c0f212d5640a1cd041bde7e176
+    m_Address: Candle_F
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c69daa5f72dbe2a4c95490c153f5495a
+    m_Address: Candle_G
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ab100afff737d84f8a9bc394de613f4
+    m_Address: Candle_Group_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea849c3f31297b342a05c44d4f0ccc62
+    m_Address: Candle_Group_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97718a386a494f64f9bbea4b62581a79
+    m_Address: Candle_Group_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06f7b9d49d304ea438b6a98bddbe1aa8
+    m_Address: Candle_H
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2efd17ea6e088e4439727b6932594ef7
+    m_Address: Pumpkin_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdf5bd1d78458b34eb35c5c6cc8dff33
+    m_Address: Pumpkin_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bad15bf9648b35346a364933a7c3600b
+    m_Address: Pumpkin_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eafefd083173b65479b88f34a8130b5a
+    m_Address: Pumpkin_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 539b32ce3edabfa4a83beed7678cc3c6
+    m_Address: Pumpkin_E
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfc2c4ebb18c1654fb15374a115085e9
+    m_Address: Pumpkin_F
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db7b4988fff0e3d4fa56725f08a32fd1
+    m_Address: Pumpkin_G
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ec8def73bb35c1468e0c3604ac21aaa
+    m_Address: Head_Candle_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d076538d6e3aa24b9f7dba50f6dd5c4
+    m_Address: Head_Candle_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3689431dc4e48cc45aa1b7a8d1121cb2
+    m_Address: Head_Candle_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c614c98192c964489b8f234f55f4c80
+    m_Address: Head_Candle_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 643efefdca72cc04ca303b70299ac004
+    m_Address: Skeleton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52d7cfb6572391e488c86985e8f073ae
+    m_Address: Skeleton_head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afefdb0547fbe6448bbc31b63d2f358c
+    m_Address: Skeleton_left_arm_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5477182b9489cc45a3d3704fc3c2c26
+    m_Address: Skeleton_left_arm_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdd249a52fa51674ba271d0c481f1a8b
+    m_Address: skeleton_left_leg_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffcc371eb5db8b542986f8e0014b48a6
+    m_Address: skeleton_left_leg_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76d65dcdb7bd4f24ca8b3deb5c071678
+    m_Address: Skeleton_pelvis_ribs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6c5bfc285c0a1c4b85eadf647ffd62b
+    m_Address: Skeleton_right_arm_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 628062f587c6d8a44b4956bc7bc9354e
+    m_Address: Skeleton_right_arm_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 979a647151237734c935c1cc71b19c8a
+    m_Address: Skeleton_right_leg_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7787db9dc731bd547ab33d5fb688cef1
+    m_Address: Skeleton_right_leg_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71ba7593c7cbc58478d6fd1e2ae946b2
+    m_Address: Gravestone S1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddf61ec92a666fd45980b19a92e1186f
+    m_Address: Gravestone S2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56c7bd716806a8d4294e48963cb72ef7
+    m_Address: Gravestone S3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cfb6dcda5190d44cab1749f3a427686
+    m_Address: Gravestone S4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60f67bdcf80b65e4bbbfb9a0c20ca62d
+    m_Address: Gravestone_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe18536985b358241a8ea75aa8c20f20
+    m_Address: Gravestone_A_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff3c8929527894f4eabb85bbd2a125cd
+    m_Address: Gravestone_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b456eda45ee7f24b881e4fd9c1ccd8b
+    m_Address: Gravestone_B_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36298ee4e4bdc4643bd8f5385e47c8d4
+    m_Address: Gravestone_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab1bb43c94e63874dab4a2ecb75240cd
+    m_Address: Gravestone_C_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68552a41bc8e24d4b8b869dfc1ae51df
+    m_Address: Gravestone_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b807924ec6858de438d0350c296d9e4d
+    m_Address: Gravestone_D_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb9dbc698ed9cee438ea8c68bdccdd2e
+    m_Address: Gravestone_E
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58bbf4f7d573bc545b8a244b7a96a803
+    m_Address: Gravestone_E_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60ec5703451ac1544a5cf054ccafd957
+    m_Address: Gravestone_F
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e0d7e9b64314f348bc1fb055d142d35
+    m_Address: Gravestone_F_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e78cb3325ea1954fae4b0eaa8e5984d
+    m_Address: Gravestone_G
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d031b7d3da7aa704cbcae44dc93c5da4
+    m_Address: Gravestone_G_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a1e167656ef5664a9c7f8081fa23081
+    m_Address: Gravestone_H
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8eaf9d922e4160345915258162909044
+    m_Address: Gravestone_H_Destroyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9083bd461dbaed4b939595b3050db99
+    m_Address: Lantren_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f45eef0f8c128c74dbccd45b1e00e669
+    m_Address: Lantren_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d523dc5e51658214ba9eb053ea86b7d6
+    m_Address: Skeleton arm_up
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a8589994318cfa4ba3f5fb998d7ac8e
+    m_Address: Spooky Tree_ A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ebd6e95b6290c540838557fa756c578
+    m_Address: Spooky Tree_ B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edb0c67f316104c448c064cc015e207c
+    m_Address: Spooky Tree_ C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43d4f8f62219d094dbc663d3e9717391
+    m_Address: Spooky Tree_ D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b023186f66fdb2f4cbce763233dbee12
+    m_Address: Spooky Tree_ E
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02663bb757dc5aa40b58a32b4dee0893
+    m_Address: Spooky Tree_ F
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9fb04fa0b21f144abc895022dac3dea
+    m_Address: Spooky Tree_ G
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9aabdd599a2e39145b26cf3682432563
+    m_Address: Spooky Tree_ H
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 065df652f7951be43937b6a03394c689
+    m_Address: Street lamp_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e20c28d33a37064cb82d02e113c09f2
+    m_Address: Street lamp_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5613e0c501b5a454582ca84bfea7bc55
+    m_Address: Street lamp_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e96731e32cc26384da33046d73f7faa7
+    m_Address: Street lamp_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ed2a5651976f214ba27cbc9b1f9fcc4
+    m_Address: Witch Hat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e711aeb7b12c3b488c081b3025a9ab8
+    m_Address: Wooden Coffin A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1b6b2051a4ad0e49a8b9e9a714211cf
+    m_Address: Wooden Coffin B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 952993bf12e7814498676b0552b5f3bf
+    m_Address: Zombie_Hand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 995e3c8df9e740948b260bfa99b6c405
+    m_Address: lanterns-on-string-5m
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6466f21c32f0b664d8f3c4d04a087c49
+    m_Address: scarecrow-a
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b690cb73b33aed849b8f65e31595dea7
+    m_Address: scarecrow-b
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d1c6b9606695db4f95ec9b45a56a860
+    m_Address: scythe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cac386581a232d24f873b482684674bd
+    m_Address: book-magical-eye
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1885c34483df2264dbe998d6edbb1d3d
+    m_Address: book-evil
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df9d3a724209f5946aa73accb4fc07fd
+    m_Address: book-evil-open
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a74cc6b83a66804e9d5e39101bf63b5
+    m_Address: Cemetery_Gate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f36c14260df6a7b4796945148db729b0
+    m_Address: Cemetery_Pillar A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 059d5d868b617554ea1cd4c6702e5ef2
+    m_Address: Cemetery_Pillar B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11bd476b5dfbb6048980a0e946822042
+    m_Address: Fence Wall A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9553b621a564db5419b3bf2d8cd74852
+    m_Address: Fence Wall B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b55aa1b82b5fb2140b82556015f4afea
+    m_Address: Fence Wall C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eddead3eb0cdd0c44a6727f246e6cbd3
+    m_Address: Fence_wall_corner_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1285c19972034a94c9b934a5d404108a
+    m_Address: Fence_wall_corner_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31034aa7e90fe4847babda561dbdf2d0
+    m_Address: Fence_wall_corner_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f725e457a04da7e49bbb0908a8b2dc6c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1c1bcf0ae0c338f45ac398be38ed73b4, type: 2}
+    - {fileID: 11400000, guid: 8d1e7fadc36cc2b46a5434bdc3dbfbf0, type: 2}
